@@ -5,7 +5,7 @@
   ## 🚀 Sobre mim =)
 <img align="right" alt="gif" height="150" style="border-radius: 50px; margin-left: 20px;" src="https://tenor.com/pt-BR/view/sabo-gif-22731369.gif">
 
-  Opa, seja bem vindo ao meu repositório, muito prazer, Pablo Camilo😁. Sou um estudante do Novo Ensino Médio e estou cursando Técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho experiência em desenvolvimento web e mobile com HTML5, CSS3, Javascript, Bootstrap, React🤠, React-Native, MySQL, Firebase, Wordpress, em prototipação com Figma, edição de imagem com GIMP e Pacote Office. 
+  Opa, seja bem vindo ao meu repositório, muito prazer, Pablo Camilo😁. Sou um estudante do Novo Ensino Médio e estou cursando Técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho experiência em desenvolvimento web e mobile com HTML5, CSS3, Javascript🥇, Bootstrap, React🤠, React-Native, MySQL, Firebase, Wordpress, em prototipação com Figma😍, edição de imagem com GIMP e Pacote Office. 
   
   ###### Scrum Master✅. 
 
