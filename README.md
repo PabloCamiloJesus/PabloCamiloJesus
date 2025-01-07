@@ -5,7 +5,7 @@
   ## 🚀 Sobre mim =)
 <img align="right" alt="gif" height="150" style="border-radius: 50px; margin-left: 20px;" src="https://tenor.com/pt-BR/view/sabo-gif-22731369.gif">
 
-  Opa, seja bem vindo ao meu repositório, muito prazer, Pablo Camilo😁. Sou um estudante do Novo Ensino Médio e estou cursando Técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho experiência em desenvolvimento web e mobile com HTML5, CSS3, Javascript🥇, Bootstrap, React🤠, React-Native, MySQL, Firebase, Wordpress, em prototipação com Figma😍, edição de imagem com GIMP e Pacote Office. 
+  Opa, seja bem vindo ao meu repositório, muito prazer, Pablo Camilo😁. Sou formado do sistema do Novo Ensino Médio SESI-SENAI e sou Técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho experiência em desenvolvimento web e mobile com HTML5, CSS3, Javascript🥇, Bootstrap, React🤠, React-Native, MySQL, Firebase, Wordpress, em prototipação com Figma😍, edição de imagem com GIMP e Pacote Office. 
   
   ###### Scrum Master✅. 
 
@@ -26,19 +26,26 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🗡️ CMS
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
 ### 😁 Prototipação
 -- Figma <br>
 -- Gimp
 
-
   ## Projetos
 
   ### 🥇 Projeto 1: PineApple Company
-  Descrição: Site codificado somente com HTML e CSS
+  Descrição: Site codificado somente com HTML e CSS. Esse projeto foi o primeiro desenvolvido, sendo uma equipe de técnicos em desenvolvimento de sistemas de 6 integrantes, na qual ocupei as funções de desenvolvedor front-end e revisor. Dá uma olhada lá ✅
   - GitHub: [PineApple-Company](https://github.com/leonardosantana214/PineApple-Company)
+
+  <div style="height:2px; width: 100%; background-color:'white'">.</div>
+
+  ### 🥇 Projeto 2: Cat-Assist
+  Descrição: Site desenvolvido com React.js, React-Native, Firebase e Gemini AI como tecnologias principais. Esse projeto em questão foi feito em uma equipe de desenvolvimento de soluções tecnológicas web e mobile, com 10 integrantes, na qual eu ocupei a função de Scrum Master, desenvolvedor e revisor. Dá uma olhada lá ✅
+
+  Versão Web
+  - GitHub: [Cat-Assist-Web](https://github.com/PabloCamiloJesus/cat-assist-web)
+    
+  Versão Mobile
+  - GitHub: [Cat-Assist-Mobile](https://github.com/PabloCamiloJesus/CAT-Assist-Mobile)
 
 <div>
     <a href="https://github.com/PabloCamiloJesus">
