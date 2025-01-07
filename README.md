@@ -36,7 +36,6 @@
   Descrição: Site codificado somente com HTML e CSS. Esse projeto foi o primeiro desenvolvido, sendo uma equipe de técnicos em desenvolvimento de sistemas de 6 integrantes, na qual ocupei as funções de desenvolvedor front-end e revisor. Dá uma olhada lá ✅
   - GitHub: [PineApple-Company](https://github.com/leonardosantana214/PineApple-Company)
 
-  <div style="height:2; width: 100; background-color:'white'"></div>
 
   ### 🥇 Projeto 2: Cat-Assist
   Descrição: Site desenvolvido com React.js, React-Native, Firebase e Gemini AI como tecnologias principais. Esse projeto em questão foi feito em uma equipe de desenvolvimento de soluções tecnológicas web e mobile, com 10 integrantes, na qual eu ocupei a função de Scrum Master, desenvolvedor e revisor. Dá uma olhada lá ✅
